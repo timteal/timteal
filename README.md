@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Mostly just a keeping side and school projects here for now!
+Mostly just keeping side and school projects here for now!
 
 <!--
 **timteal/timteal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
